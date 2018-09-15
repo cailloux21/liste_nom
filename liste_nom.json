@@ -1,0 +1,27 @@
+{
+	"Ashley" : {
+			"name" : "Ashley",
+			"role" : "2nd_classe",
+			"id" : 001		
+	},
+	"Bakari" : {
+			"name" : "Bakari",
+			"role" : "capitaine",
+			"id" : 002		
+	},
+	"Bruspal" : {
+			"name" : "Bruspal",
+			"role" : "major",
+			"id" : 002		
+	},
+	"Cailloux" : {
+			"name" : "Cailloux",
+			"role" : "Vice_Amiral",
+			"id" : 002		
+	},
+	"Thom_Ahawk" : {
+			"name" : "Thom_Ahawk",
+			"role" : "Amiral",
+			"id" : 002		
+	}
+}
